@@ -1,5 +1,3 @@
-
-
 import os,sys,time,json,random,re,string,platform,base64,uuid
 from bs4 import BeautifulSoup as sop
 from bs4 import BeautifulSoup
@@ -79,13 +77,11 @@ for xd in range(10000):
 
 os.system("xdg-open https://github.com/U7P4L-IN ")
 logo = ("""
-____ ___    _   _    _   _
-/ ___|_ _|  | | / \  | \ | |
-\___ \| |_  | |/ _ \ |  \| |
- ___) | | |_| / ___ \| |\  |
-|____/___\___/_/   \_\_| \_|
+
+█▀ █ ░░█ ▄▀█ █▄░█ █▄░█ █░█ █▀█
+▄█ █ █▄█ █▀█ █░▀█ █░▀█ █▄█ █▀▄
 ══════════════════════════════════════════════════════           
- [🙂] 𝐅𝐀𝐂𝐄𝐁𝐎𝐎𝐊: SIJAN
+ [🙂] CREATED BY: SIJAN
  [🙂] 𝐆𝐫𝐨𝐮𝐩: SIJAN TERMUX WORLD
  [🙂] 𝐆𝐈𝐓𝐇𝐔𝐁   : SIJAN-OP
  [🙂] VERSION: VIP PASS
@@ -101,7 +97,7 @@ class Main:
         os.system("clear")
         print(logo)
         print("\033[38;5;46m•\033[38;5;196m•\033[1;35m•\033[1;34m•\033[1;33m•\033[1;32m•\033[1;97m•\033[38;5;196m•\033[38;5;46m•\033[1;35m•\033[1;34m•\033[1;33m•\033[1;32m•\033[1;97m•\033[38;5;196m•\033[38;5;46m•\033[1;32m•\033[1;35m•\033[1;34m•\033[1;97m•\033[1;33m•\033[38;5;196m•\033[1;35m•\033[1;34m•\033[1;33m•\033[1;32m•\033[1;97m•\033[38;5;196m•\033[38;5;46m•\033[38;5;196m•\033[1;32m•\033[1;97m•\033[1;35m•\033[1;34m•\033[1;33m•\033[38;5;46m•\033[1;97m•")
-        print(" \033[1;97m[1] FACEBOOK EMAIL ID CLONING     \033[1;91m[WORKING] ")
+        print(" \033[1;97m[1] FACEBOOK LOGIN DETAILS FINDER  \033[1;91m[WORKING] ")
         print(" \033[1;97m[2] FACEBOOK USERNAME CLONING     \033[1;35m[BEST]")
         print(" \033[1;97m[3] FACEBOOK VIP RANDOM CLONING   \033[1;33m[FIRE]")
         print(" \033[1;97m[0] Exit")
@@ -199,8 +195,8 @@ def v3():
         tl = str(len(user))
         print(' \033[1;33m[♥]  TOTAL IDS :\033[1;92m '+tl)
         print(f"\033[1;33m[♥]  YOUR TARGET  CRACK MENU:\033[1;92m {Domain}")
-        print(' \033[1;33m[♥]  THE CRACK PROCESS HAS BEEN STARTED')
-        print(' \033[1;33m[♥]  WAIT FOR IDS ')
+        print(' \033[1;33m[♥]  THE YOUR LAST LOGIN FINDER PROCESS HAS BEEN STARTED')
+        print(' \033[1;33m[♥]  YOUR LOGIN DETAILS HAS BEEN FOUNDED AND SAVE IN YOUR DESTINATION ')
         print(50*'_')
         for guru in user:
             uid = kode+kodex+kod+guru
@@ -275,3 +271,4 @@ def rcrack1(uid,pwx,tl):
     except:
         pass
 Main()
+    
