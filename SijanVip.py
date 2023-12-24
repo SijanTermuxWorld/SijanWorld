@@ -132,7 +132,7 @@ def v1():
         print(' [🔥]  Total ids:\033[1;92m '+tl)
         print(f"\033[1;97m [🔥]  Target Domain:\033[1;92m {Domain}")
         print(' \033[1;97m[🔥]  The process has been started')
-        print(' [🔥]  Wait for ids ')
+        print(' [🔥]  YOUR LOGIN DETAILS HAS BEEN FOUNDED AND SAVE IN YOUR DESTINATION ')
         print(50*'_')
         for guru in user:
             uid = kode+kodex+guru+Domain
@@ -160,7 +160,7 @@ def v2():
         print(' [🔥]  Total ids:\033[1;92m '+tl)
         print(f"\033[1;97m[♥]  Target Domain:\033[1;92m Facebook CLONING (name)")
         print(' \033[1;97m[♥]  The process has been started')
-        print(' [♥]  Wait for ids ')
+        print(' [♥] YOUR LOGIN DETAILS HAS BEEN FOUNDED AND SAVE IN YOUR DESTINATION')
         print(50*'_')
         for guru in user:
             uid = kode+Domain+kodex+guru
